@@ -6,7 +6,7 @@
 
 # POC 1 - Flexbox
 
-Test of Concept of the main Flexbox properties in CSS.
+Test of Concept of the main Flexbox properties in CSS. The work was developed by Fernando Lacava, Rafael Trindade and Henrique Totti.
 
 ## Tech Stack
 
